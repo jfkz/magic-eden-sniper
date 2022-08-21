@@ -7,7 +7,7 @@ Supported NFTs:
 
 # Requirements:
 - Magic Eden api key (can easily request on their Discord server: https://discord.gg/magiceden)
-- QuickNode API (https://quicknode.io)
+- QuickNode API (https://quicknode.com)
 
 # Installation:
 
