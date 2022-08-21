@@ -7,20 +7,20 @@ Supported NFTs:
 
 # Requirements:
 - Magic Eden api key (can easily request on their Discord server: https://discord.gg/magiceden)
-- QuickNode API (https://quicknode.io)Â
+- QuickNode API (https://quicknode.io)
 
-# Installation
+# Installation:
 
 1. git clone
 2. Create `.env` file in root directory. (see .env.example)
 3. `npm install`
 4. `npm run build`
 
-# Runing
+# Running:
 
 ```
 npm start -- [-p <price>] <nft_address>
 ```
 
-# Credits
-(c) [jfkz](https://github.com/jfkz)
+# Credits:
+(c) [jfkz](https://github.com/jfkz), 2022
